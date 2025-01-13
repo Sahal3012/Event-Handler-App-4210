@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+div {
+  margin: 10px 0;
+  
+}
